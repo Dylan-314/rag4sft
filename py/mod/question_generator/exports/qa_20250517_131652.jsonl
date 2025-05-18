@@ -1,0 +1,4 @@
+{"question": "该论文中用于测试2D Ti3C2Tx MXene射频性能的微带传输线是如何制备的？", "type": "methodology", "chunk_id": 1}
+{"question": "Ti3C2Tx MXene的射频电导率与直流电导率相比有何异常表现，其具体数值是多少？", "type": "finding", "chunk_id": 1}
+{"question": "该研究提出的基于Dempster-Shafer理论和支持向量回归-粒子滤波（SVR-PF）的方法是如何提高锂离子电池剩余寿命预测精度的？", "type": "method", "chunk_id": 2}
+{"question": "文中提出的基本概率分配（BPA）更新方法在锂离子电池剩余寿命预测中的作用和优势是什么？", "type": "technical detail", "chunk_id": 2}
