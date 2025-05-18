@@ -1,4 +1,0 @@
-{"question": "《Conceptualizing the Role of Gamification in Contemporary Enterprises》一文的作者有哪些人？", "type": "fact", "chunk_id": 1}
-{"question": "这篇2020年发表的论文在学术界获得了多少次引用？", "type": "fact", "chunk_id": 1}
-{"question": "本文提出了哪四种基于指数损失函数的属性加权方法，用于优化朴素贝叶斯分类器？", "type": "background", "chunk_id": 2}
-{"question": "作者如何通过修改指数损失函数提升朴素贝叶斯分类器对噪声样本的鲁棒性，并在实验中取得了哪些效果？", "type": "background", "chunk_id": 2}
